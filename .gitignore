@@ -1,2 +1,5 @@
-lib
-target
+/lib
+/target
+/dependency-reduced-pom.xml
+/releases
+/snapshots
